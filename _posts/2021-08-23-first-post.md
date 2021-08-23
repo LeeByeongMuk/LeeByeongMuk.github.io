@@ -2,6 +2,12 @@
 title:  "블로그 시작하기"
 excerpt: "첫 블로그 글 작성"
 
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2021-08-23T11:34:00-05:00
+
 ---
 
 기존의 작업을 할때 모르는 부분이나 버그를 처리 후 따로 문서 정리를 하지 않았다.   
