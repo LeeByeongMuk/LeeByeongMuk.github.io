@@ -19,6 +19,7 @@
 }
 
 .archive__item {
+  @include clearfix();
   position: relative;
 
   a {
@@ -126,7 +127,7 @@
    ========================================================================== */
 
 .list__item {
-  border-bottom: 1px solid $border-color;
+  //border-bottom: 1px solid $border-color;
   .page__meta {
     margin: 0 0 4px;
     font-size: 0.6em;
