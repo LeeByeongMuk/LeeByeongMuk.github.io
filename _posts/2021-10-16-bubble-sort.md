@@ -1,5 +1,5 @@
 ---
-title: Bubble Sort(버블 정렬) 이란?
+title: 버블 정렬(Bubble Sort) 이란?
 last_modified_at: '2021-10-16 19:01:00 +0900'
 categories:
 - algorithm
@@ -24,9 +24,10 @@ for (let i = 0; i < arr.length; i++) {
 
 console.log(arr); // 오름차순 정렬
 ```
->  Big(O) 시간 복잡도는 o(n<sup>2</sup>) 입니다.   
+>  Big(O) 시간 복잡도는 o(n<sup>2</sup>) 비교, o(n<sup>2</sup>) 교환  입니다.   
 
 <br>
 
 ### 참조
 * [위키백과](https://ko.wikipedia.org/wiki/%EA%B1%B0%ED%92%88_%EC%A0%95%EB%A0%AC)
+* [https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC%20(Bubble%20Sort).md#%EA%B1%B0%ED%92%88-%EC%A0%95%EB%A0%AC-bubble-sort](https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC%20(Bubble%20Sort).md#%EA%B1%B0%ED%92%88-%EC%A0%95%EB%A0%AC-bubble-sort)
