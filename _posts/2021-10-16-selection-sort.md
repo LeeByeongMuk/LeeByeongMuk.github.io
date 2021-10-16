@@ -1,5 +1,8 @@
 ---
 title: 선택 정렬(Selection Sort) 이란?
+last_modified_at: '2021-10-16 22:17:00 +0900'
+categories:
+- algorithm
 ---
 
 ## 정의
